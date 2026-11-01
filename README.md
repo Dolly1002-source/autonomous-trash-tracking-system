@@ -1,6 +1,7 @@
 Autonomous Trash Tracking System
 A smart waste-management system that combines sensor-equipped dustbins, an Android app for citizens, and a web dashboard for municipalities. Bins report their fill status, users find the nearest suitable bin for wet, dry, or metal waste, and municipalities manage the bins from a website.
-📄 Paper: Autonomous Trash Tracking System (IJSREM, 2024)
+
+📄 **Paper:** [Autonomous Trash Tracking System (IJSREM, 2024)](https://doi.org/10.55041/IJSREM34329)
 Reshika N, Varsha M C, Vignesh H, Vinay M, and Dr. Vasudeva G International Journal of Scientific Research in Engineering and Management (IJSREM), Volume 08, Issue 05, May 2024 DOI: 10.55041/IJSREM34329
 
 Repository Status:
